@@ -4,3 +4,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=teoiyoussoufa&theme=darkhub&no-bg=true&no-frame=true&margin-w=10)
 ![Profile Views](https://komarev.com/ghpvc/?username=teoiyoussoufa&color=blueviolet&style=flat-square)
+
+<!-- Language Badges -->
+![English](https://img.shields.io/badge/Language-English-blue.svg)
+![French](https://img.shields.io/badge/Language-French-lightgrey.svg)
